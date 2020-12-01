@@ -3,14 +3,14 @@
 # Alan Lu
 echo "Enter a positive number:"
 read NUMBER
-CURRENT=1
-while [ $NUMBER -ge $CURRENT ]
+C=1
+while [ $NUMBER -ge $C ]
 do
-	if [ $((CURRENT%2)) -eq 0 ]
+	if [ $((C%2)) -eq 0 ]
 	then
-		echo "$CURRENT Even"
+		echo "$C Even"
 	else
-		echo "$CURRENT Odd"
+		echo "$C Odd"
 	fi
-	CURRENT=$((CURRENT+1))
+	C=$((C+1))
 done

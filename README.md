@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Alan Lu
+2. Student ID: 2378209
+3. Email: allu@chapman.edu
+4. Class: CPSC 298
 5. Assignment: numbers 
 
 ## Application Purpose
